@@ -11,6 +11,24 @@ This app is able to get latest twitter trends by using APIs provided by [Twitter
 - axios
 - Flask
 
+## Setup
+To run this project, install it locally using npm and pip:
+
+```
+cd ./frontend
+npm install react-redux redux semantic-ui-react redux-thunk axios --save
+
+cd ../backend 
+pip install flask 
+```
+## Launch
+```
+run run.py
+
+cd ../frontend
+npm start 
+Open (ttp://localhost:3000) to view it in the browser.
+```
 
 ## Live Demo
 ![image](https://github.com/JANICECY/react-twitter-trend-app/blob/master/demo/live.gif)
