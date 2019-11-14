@@ -27,8 +27,8 @@ run run.py
 
 cd ../frontend
 npm start 
-Open (ttp://localhost:3000) to view it in the browser.
 ```
+#### Open http://localhost:3000 to view it in the browser.
 
 ## Live Demo
 ![image](https://github.com/JANICECY/react-twitter-trend-app/blob/master/demo/live.gif)
