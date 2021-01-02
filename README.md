@@ -33,5 +33,5 @@ npm start
 ## Live Demo
 ![image](https://github.com/JANICECY/react-twitter-trend-app/blob/master/demo/live.gif)
 
-## ScreenShots
+## Screenshots
 ![Image text](https://github.com/JANICECY/react-twitter-trend-app/blob/master/demo/demo1.png)
